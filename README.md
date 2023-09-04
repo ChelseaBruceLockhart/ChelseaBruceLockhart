@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChelseaBruceLockhart, the Data visualisation lead at energy think tank, Ember
+- 👀 I’m interested in telling stories with data and influencing informed decision-making through the use of data insights
+- 🌱 I’m currently learning d3, javascript and R (and everything I can about the complicated world of energy systems)
+- 💞️ I’m looking to collaborate with organisations in the climate NGO space which have a similar vision to Ember's - using data to advance a swift clean energy transition 
+- 📫 Easiest to reach me on Twitter @c_brucelockhart or email chelsea@ember-climate.org
